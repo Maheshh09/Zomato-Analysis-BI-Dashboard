@@ -1,4 +1,4 @@
-# # HR Analytics BI Dashboard
+ # HR Analytics BI Dashboard
 
 Zomato Restaurant Data Analysis Project This project involved analyzing Zomato restaurant data , created interactive dashboard in Tableau. The objectives of the project were:
 
